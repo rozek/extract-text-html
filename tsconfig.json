@@ -2,8 +2,9 @@
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test.ts"],
   "compilerOptions": {
-    "module": "commonjs",
-    "target": "es2022",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "target": "esnext",
     "outDir": "./dist",
     "strict": true,
     "esModuleInterop": true,
