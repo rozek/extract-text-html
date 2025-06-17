@@ -1,7 +1,8 @@
 {
   "name": "extract-text-html",
+  "type":"module",
   "version": "0.2.0",
-  "description": "Extract text from HTML. Excludes content from metadata tags by default.",
+  "description": "Extracts text from HTML. Excludes content from metadata tags by default.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "git://github.com/smartprocure/extract-text-html.git",
