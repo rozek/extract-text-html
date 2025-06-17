@@ -59,8 +59,7 @@ typings/
 
 danger_log
 .DS_Store
+package-lock.json
 test-results.json
-
-dist/
 
 *.un~
